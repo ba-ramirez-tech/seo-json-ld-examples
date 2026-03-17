@@ -1,0 +1,31 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TouristDestination",
+    "name": "Colombie Sur Mesure",
+    "description": "Reiseanbieter für maßgeschneiderte Kolumbien-Reisen im französischen Markt",
+    "url": "https://www.colombiesurmesure.com",
+    "touristType": {
+      "@type": "Audience",
+      "audienceType": "Französischsprachige Reisende"
+    },
+    "hasMap": "https://maps.google.com/?q=Colombia",
+    "availableLanguage": [
+      {
+        "@type": "Language",
+        "name": "French"
+      },
+      {
+        "@type": "Language",
+        "name": "Spanish"
+      }
+    ],
+    "provider": {
+      "@type": "TravelAgency",
+      "name": "Colombie Sur Mesure",
+      "foundingDate": "2015",
+      "founder": {
+        "@type": "Person",
+        "name": "Braulio Ramirez"
+      }
+    }
+  }
